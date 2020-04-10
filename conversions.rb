@@ -3,5 +3,5 @@ def ounces_to_grams(ounces)
   ounces.to_f * GRAMS_PER_OUNCE
 end
 
-puts ounces_to_grams(0)
-puts ounces_to_grams(1)
+ounces_to_grams(0)
+ounces_to_grams(1)
